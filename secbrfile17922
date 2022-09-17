@@ -1,0 +1,5 @@
+created branch from bash and --setupsteam
+then sec branch appeared in gitub main branch
+$ git branch secbranch
+ git switch -c secbrabch
+$ git push --set-upstream origin secbranch
